@@ -1,0 +1,10 @@
+C:\Users\gokul\source\repos\WEbbrowserTest\bin\Debug\WEbbrowserTest.exe.config
+C:\Users\gokul\source\repos\WEbbrowserTest\bin\Debug\WEbbrowserTest.exe
+C:\Users\gokul\source\repos\WEbbrowserTest\bin\Debug\WEbbrowserTest.pdb
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.csprojAssemblyReference.cache
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.Form1.resources
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.Properties.Resources.resources
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.csproj.GenerateResource.cache
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.exe
+C:\Users\gokul\source\repos\WEbbrowserTest\obj\Debug\WEbbrowserTest.pdb
